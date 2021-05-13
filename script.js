@@ -23,19 +23,19 @@ var models = [
         url: 'asset.gltf',
         scale: '0.5 0.5 0.5',
         info: 'Magnemite, Lv. 5, HP 10/10',
-        rotation: '45 90 180',
+        rotation: '90 180 360',
 
     },
     {
         url: 'asset.gltf',
         scale: '0.2 0.2 0.2',
-        rotation: '45 90 180',
+        rotation: '90 180 360',
         info: 'Articuno, Lv. 80, HP 100/100',
     },
     {
         url: 'asset.gltf',
         scale: '0.08 0.08 0.08',
-        rotation: '45 90 180',
+        rotation: '90 180 360',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
 ];
